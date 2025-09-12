@@ -1,0 +1,95 @@
+# 🧑‍🎓 **Project 2**
+## Health Awareness Campaign Website  
+### Case Study: *“Say No to Drug Abuse”*
+
+---
+
+### 📖 Scenario  
+A youth NGO called **Hope for the Future** is worried about the rise of **drug abuse among teenagers**. They want to launch a **“Say No to Drugs” awareness campaign** to educate young people and inspire them to make better life choices.  
+
+Since they cannot afford a big social media campaign, they decided to start with a **simple but powerful website** that communicates their message clearly.  
+
+They’ve reached out to **your team** to design and build this awareness website using only **HTML + CSS**.  
+
+---
+
+### 🎯 Goals of the Project  
+The NGO’s website should:  
+1. **Educate** visitors about the dangers of drug abuse.  
+2. **Inspire** young people by giving them **positive alternatives**.  
+3. **Engage** them with real quotes or testimonies.  
+4. **Invite** visitors to take action (contact/join the movement).  
+
+---
+
+### 📌 Your Tasks
+Your group must build a **single-page website** that includes the following sections:  
+
+1. **Header Section**  
+   - Campaign title (e.g., *“Say No to Drugs”*).  
+   - A bold slogan (e.g., *“Your Future is Greater than Drugs”*).  
+
+2. **Awareness Section**  
+   - A short paragraph describing the dangers of drug abuse (at least 4–5 points).  
+   - You can use a **list or paragraph format**.  
+
+3. **Healthy Alternatives Section**  
+   - A list of at least **5 positive activities** young people can do instead of drugs.  
+   - Example: sports, coding, music, reading, volunteering.  
+   - Use **CSS to style this list** differently so it stands out.  
+
+4. **Testimonial/Quote Section**  
+   - A quote or testimony box styled with a **different background color or border**.  
+   - Example: *“I chose football instead of drugs, and it changed my life.”*  
+
+5. **Join Us Section**  
+   - Contact info for the NGO (email, phone, social media links).  
+   - A call-to-action like: *“Join us in building a drug-free future!”*.  
+
+---
+
+### 🎨 Design & Styling Requirements  
+- Use **serious but vibrant colors**:    
+- Headings must be bold and clear.  
+- Clickable navbar that will take you to different sessions
+- Use different background colors or borders to separate sections.  
+- Use hover effects for links.
+- Use flexbox when necessary.  
+- Keep the design clean and readable.  
+
+---
+
+### 👥 Group Roles (Suggested)  
+1. **Content Writer** – drafts the awareness messages & alternatives.  
+2. **HTML Lead** – builds the structure of the page.  
+3. **CSS Designer** – handles colors, styling, and layout.  
+4. **Quality Checker** – reviews for errors, makes sure all requirements are included.  
+
+---
+
+### 📦 Deliverables  
+- A folder named `SayNoToDrugs` containing:  
+  - `index.html` (main page).  
+  - `style.css` (styling).  
+  - Optional images if used (in an `images` folder).  
+- The website must open correctly in a browser.  
+- Push the project to **GitHub** and share the repository link.  
+- Include a **README.md** file in the repository with:  
+  - **Project Title & Description** (brief overview of the campaign).  
+  - **Sections Overview** (explain each section: Awareness, Healthy Alternatives, Testimonial, Join Us).  
+  - **Screenshots/Images** of the website sections.  
+  - **How to View the Project** (steps to open the site locally or via GitHub Pages).  
+  - **Team Members & Roles** (who did what in the project).   
+- **Screenshots hosted via GitHub Issues**:  
+  - Upload section screenshots by creating a new GitHub Issue.  
+  - Copy the image link that GitHub generates.  
+  - Paste those links into the README so they display properly.
+
+---
+
+### ✅ Success Criteria (What You’ll Be Graded On)  
+1. **Structure (25%)** – Clear sections (header, awareness, alternatives, testimonial, join us).  
+2. **Content (20%)** – Accurate facts & useful alternatives.  
+3. **Styling (25%)** – Good use of colors, headings, borders, hover effects.  
+4. **Creativity (20%)** – Unique design ideas, inspiring slogan, eye-catching layout.  
+5. **Teamwork (10%)** – Evidence of group collaboration.  
