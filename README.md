@@ -14,6 +14,7 @@ https://github.com/user-attachments/assets/cc05c1b5-3719-48c6-b5fb-a164e68350d4
 ### Awareness
  A short paragraph describing the dangers of drug abuse (at least 4–5 points). 
 https://github.com/user-attachments/assets/dce87547-c706-4bcd-b28b-bc9fdcaf3658 
+<img width="1900" height="954" alt="Image" src="https://github.com/user-attachments/assets/dce87547-c706-4bcd-b28b-bc9fdcaf3658" />
 
 #### Health Alternative
 A list of 5 positive activities young people can do instead of drugs.
