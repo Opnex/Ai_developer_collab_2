@@ -19,6 +19,8 @@ https://github.com/user-attachments/assets/dce87547-c706-4bcd-b28b-bc9fdcaf3658
 #### Health Alternative
 A list of 5 positive activities young people can do instead of drugs.
 https://github.com/user-attachments/assets/8304485a-3fd0-4f9e-b3f5-ae468493fa22 
+<img width="1900" height="950" alt="Image" src="https://github.com/user-attachments/assets/8304485a-3fd0-4f9e-b3f5-ae468493fa22" />[/+]
+
 
 
 ##### Testimonial
