@@ -9,6 +9,7 @@ The navigation is for easy access to other sessions
  Campaign title
  A bold slogan
 https://github.com/user-attachments/assets/cc05c1b5-3719-48c6-b5fb-a164e68350d4 
+<img width="1903" height="950" alt="Image" src="https://github.com/user-attachments/assets/cc05c1b5-3719-48c6-b5fb-a164e68350d4" />
 
 ### Awareness
  A short paragraph describing the dangers of drug abuse (at least 4–5 points). 
