@@ -26,6 +26,8 @@ https://github.com/user-attachments/assets/8304485a-3fd0-4f9e-b3f5-ae468493fa22
 ##### Testimonial
  A quote or testimony box styled.  
 https://github.com/user-attachments/assets/a26c0cee-244e-4e3a-98a9-197ef480bc69 
+<img width="1896" height="951" alt="Image" src="https://github.com/user-attachments/assets/a26c0cee-244e-4e3a-98a9-197ef480bc69" />[/+]
+
 
 
 ###### Join us Section
