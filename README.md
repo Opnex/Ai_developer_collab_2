@@ -40,3 +40,4 @@ https://github.com/user-attachments/assets/a26c0cee-244e-4e3a-98a9-197ef480bc69
  ###### Footer
  copywrite
  https://github.com/user-attachments/assets/2d55f4c8-63ba-4129-8b8e-c98114d8557a
+ <img width="1903" height="144" alt="Image" src="https://github.com/user-attachments/assets/2d55f4c8-63ba-4129-8b8e-c98114d8557a" />
