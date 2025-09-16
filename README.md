@@ -33,6 +33,8 @@ https://github.com/user-attachments/assets/a26c0cee-244e-4e3a-98a9-197ef480bc69
 ###### Join us Section
  Contact info for the NGO (email, phone, social media links).
  https://github.com/user-attachments/assets/71a2bbc9-6291-4643-9c50-ca8d8188f198 
+ <img width="1896" height="951" alt="Image" src="https://github.com/user-attachments/assets/71a2bbc9-6291-4643-9c50-ca8d8188f198" />[/+]
+
 
 
  ###### Footer
